@@ -1,4 +1,4 @@
-# LGMVIP-Face-Detection-ML
+# LGMVIP-Face-Detector-ML
 
 Everyone has listened about the face detection program built using python but here we are going to create an android app using machine learning kit on firebase which will do the same stuff as the python program.
 
