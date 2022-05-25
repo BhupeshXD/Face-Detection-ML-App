@@ -6,7 +6,7 @@ It will be a simple app with a simple UI in which the user will be greeted with 
 
 For Best Results install on your mobile phone.
 
-Note : One Error was there in a app about total faces fixed...
+***Note*** : One Error was there in a app about total number faces working on it...
 
 
 
