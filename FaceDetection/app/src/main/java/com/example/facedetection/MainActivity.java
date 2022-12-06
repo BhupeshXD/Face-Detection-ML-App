@@ -83,7 +83,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onSuccess(@NonNull List<Face> faces) {
                 String resultText = " ";
-                int i = 1;
+                int i = 0;
                 DecimalFormat df = new DecimalFormat("#.00");
                 for (Face face:faces) {
 
